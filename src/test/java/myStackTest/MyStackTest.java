@@ -1,6 +1,6 @@
 package stackTest;
 
-import stack.MyStack;
+import myStack.MyStack;
 
 public class MyStackTest {
     public static void main(String[] args) throws Exception {
