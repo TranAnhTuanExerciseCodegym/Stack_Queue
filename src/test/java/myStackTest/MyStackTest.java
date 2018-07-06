@@ -1,4 +1,4 @@
-package stackTest;
+package myStackTest;
 
 import myStack.MyStack;
 
